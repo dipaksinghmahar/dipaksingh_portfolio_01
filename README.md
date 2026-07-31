@@ -1,10 +1,13 @@
 Dipak Singh Mahar — Portfolio
 An immersive 3D portfolio website built as a single HTML file. Features a holographic display pedestal with a rotating 3D model, neon-glowing edges, a reflective polished concrete floor, and scroll-triggered content sections — all running entirely in the browser with no build tools or server required.
 
+
 Preview
 Open index.html directly in any modern browser. No server needed — just double-click the file.
 
+
 A local server (like VS Code's "Live Server" extension) is recommended for the best experience, as some browsers restrict ES module imports from file:// URLs.
+
 
 Tech Stack
 Technology	Purpose
