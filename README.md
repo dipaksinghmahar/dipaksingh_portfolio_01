@@ -304,13 +304,3 @@ Images: Picsum Photos (placeholders)
 License
 This project is for personal portfolio use. Study the code and adapt it for your own portfolio, but please don't copy the personal content (name, bio, projects, contact info).
 ```
-
-
-
-
-
-
-
-
-
-
